@@ -1,0 +1,18 @@
+# ninja log v5
+8	252	1710971617193912697	CMakeFiles/Shape.dir/Shape/MysteryShape.cpp.o	c42e689332a8b136
+8	1087	1710971618025920706	CMakeFiles/Shape.dir/Shape/NullShape.cpp.o	604f3fdda145afad
+7	1117	1710971618057921017	CMakeFiles/Shape.dir/Shape/Line.cpp.o	1729610104f28a64
+7	1124	1710971618065921094	CMakeFiles/Shape.dir/Shape/Circle.cpp.o	faf02e0dba31ca18
+9	1132	1710971618073921172	CMakeFiles/Utilities.dir/Utilities/Utilities.cpp.o	e98e808469c112c2
+1132	1152	1710971618093921366	libUtilities.a	27d638d104d47bba
+8	1222	1710971618161922025	CMakeFiles/Shape.dir/Shape/Rectangle.cpp.o	a6ae54b5848220b6
+9	1360	1710971618301923382	CMakeFiles/Shape.dir/Shape/RightTriangle.cpp.o	9592c435fe966df5
+6	1547	1710971618485925166	CMakeFiles/Shape.dir/Shape/ShapeMain.cpp.o	feaf1bd09b7bc878
+1547	1709	1710971618645926717	Shape	4c234b0851744da7
+5	744	1710972567045305186	CMakeFiles/Shape.dir/Shape/RightTriangle.cpp.o	9592c435fe966df5
+5	746	1710972567045305186	CMakeFiles/Shape.dir/Shape/MysteryShape.cpp.o	c42e689332a8b136
+5	903	1710972567205299196	CMakeFiles/Shape.dir/Shape/ShapeMain.cpp.o	feaf1bd09b7bc878
+904	1004	1710972567301295601	Shape	4c234b0851744da7
+5	726	1710972935009531485	CMakeFiles/Shape.dir/Shape/MysteryShape.cpp.o	c42e689332a8b136
+4	910	1710972935193529974	CMakeFiles/Shape.dir/Shape/ShapeMain.cpp.o	feaf1bd09b7bc878
+910	1022	1710972935305529055	Shape	4c234b0851744da7
